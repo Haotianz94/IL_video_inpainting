@@ -4,7 +4,7 @@
 International Conference on Computer Vision (ICCV) 2019. 
 
 [Paper](#) | [Youtube](https://www.youtube.com/watch?v=_tVhCWGN7s4)
-<img src="https://github.com/Haotianz94/dip_video_inpainting/blob/master/img/rollerblade.gif"/>
+<img src="https://github.com/Haotianz94/IL_video_inpainting/blob/master/img/rollerblade.gif"/>
 
 ## Install
 The code has been tested on pytorch 1.0.0 with python 3.5 and cuda 9.0. Please refer to [requirements.txt](https://github.com/Haotianz94/IL_video_inpainting/blob/master/requirements.txt) fore details. Alternatively, you can build a docker image using provided [Dockerfile](https://github.com/Haotianz94/IL_video_inpainting/blob/master/Dockerfile).
