@@ -7,7 +7,7 @@ RUN apt-get install -y libsm6 libxrender1 libgtk2.0-dev
 RUN apt-get install python3-pip -y
 RUN pip3 install --upgrade pip        
 
-RUN pip3 install torch>=1.0.0 torchvision
+RUN pip3 install torch==1.0.0 torchvision==0.2.0
 RUN pip3 install ipykernel jupyter 
 RUN pip3 install opencv-contrib-python matplotlib 
 RUN pip3 install cupy scipy

@@ -1,0 +1,2 @@
+Please download the pre-trained model weights for PWC-Net from [here](https://drive.google.com/open?id=1vyoQFBz--DEkUq-0gucbWYrVbfYTOZfz).
+(The model was originally trained by Simon Niklaus from [here](https://github.com/sniklaus/pytorch-pwc)).
