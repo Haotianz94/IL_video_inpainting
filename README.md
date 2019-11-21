@@ -26,7 +26,23 @@ python3 train.py --train_mode DIP-Vid-Flow --video_path data/bmx-trees.avi --mas
 
 ## Citation
 ```
+@inproceedings{zhang2019internal,
+  title={An Internal Learning Approach to Video Inpainting},
+  author={Zhang, Haotian and Mai, Long and Xu, Ning and Wang, Zhaowen and Collomosse, John and Jin, Hailin},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={2720--2729},
+  year={2019}
+}
 ```
 
-## References
+
+## License
+© 2019 Adobe. 
+
+Adobe holds the copyright for all the files found in this repository.
+
+<strong>IL_video_inpainting</strong> is a project by Adobe Research. It is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) and may only be used for non-commercial purposes. See the LICENSE file for more information.
+
+
+## Acknowledgement
 The implementation of our network architecture is mostly borrowed from the Deep Image Prior [repo](https://github.com/DmitryUlyanov/deep-image-prior). The implementation of the PWC-Net is borrowed from this [repo](https://github.com/sniklaus/pytorch-pwc). Should you be making use of this work, please make sure to adhere to the licensing terms of the original authors.
