@@ -16,7 +16,7 @@ The code has been tested on pytorch 1.0.0 with python 3.5 and cuda 9.0. Please r
 
 
 ## Usage
-We provide two ways to test our video inpainting approach. Please first download the demo data from [here](https://drive.google.com/open?id=1MJDCjj1aIUbW0OK9UnewhXlkKX9zllQd) into `data/` and download the pretrained model weights for PWC-Net from [here](https://drive.google.com/open?id=1vyoQFBz--DEkUq-0gucbWYrVbfYTOZfz) (No need to unzip the weights file) into `pretrained_models/`. (The model was originally trained by Simon Niklaus from [here](https://github.com/sniklaus/pytorch-pwc)).
+We provide two ways to test our video inpainting approach. Please first download the demo data from [here](https://drive.google.com/file/d/1MJDCjj1aIUbW0OK9UnewhXlkKX9zllQd/view?usp=sharing) into `data/` and download the pretrained model weights for PWC-Net from [here](https://drive.google.com/file/d/1XPaqITtUV11WpOpX1PeCkS4zdjI5tKb8/view?usp=sharing) (No need to unzip the weights file) into `pretrained_models/`. (The model was originally trained by Simon Niklaus from [here](https://github.com/sniklaus/pytorch-pwc)).
 
 * To run our demo, please run the following command:
 ```
