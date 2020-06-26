@@ -5,7 +5,7 @@ International Conference on Computer Vision (ICCV) 2019.
 
 [Paper](https://arxiv.org/abs/1909.07957) |
 [Project](https://cs.stanford.edu/~haotianz/publications/video_inpainting/) |
-[Video](https://drive.google.com/file/d/1q0dgbHLb0sWkOMiF6RzQdCL9tzkijDXQ/view?usp=sharing)
+[Video](https://drive.google.com/file/d/1q0dgbHLb0sWkOMiF6RzQdCL9tzkijDXQ/view?usp=sharing) | 
 <img src="https://github.com/Haotianz94/IL_video_inpainting/blob/master/img/rollerblade.gif"/>
 
 <!--[Youtube](https://www.youtube.com/watch?v=_tVhCWGN7s4)-->
