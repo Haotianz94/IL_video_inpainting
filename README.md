@@ -48,6 +48,7 @@ Adobe holds the copyright for all the files found in this repository.
 
 <strong>IL_video_inpainting</strong> is a project by Adobe Research. It is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) and may only be used for non-commercial purposes. See the LICENSE file for more information.
 
+<strong>Note</strong> We are not able to provide access to our Composed Dataset because we could not get copyright permission from the authors of the videos.
 
 ## Acknowledgement
 The implementation of our network architecture is mostly borrowed from the Deep Image Prior [repo](https://github.com/DmitryUlyanov/deep-image-prior). The implementation of the PWC-Net is borrowed from this [repo](https://github.com/sniklaus/pytorch-pwc). Should you be making use of this work, please make sure to adhere to the licensing terms of the original authors.
